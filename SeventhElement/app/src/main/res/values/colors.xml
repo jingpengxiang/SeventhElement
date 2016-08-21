@@ -3,4 +3,12 @@
     <color name="colorPrimary">#3F51B5</color>
     <color name="colorPrimaryDark">#303F9F</color>
     <color name="colorAccent">#FF4081</color>
+
+    <color name="abc_tab_text_normal">#212121</color>
+    <color name="text_white">#ffffff</color>
+    <color name="abc_theme_black_7f">#7f000000</color>
+
+    <color name="text_black">#333333</color>
+    <color name="d2d2d2">#d2d2d2</color>
+    <color name="d5d5d5">#d5d5d5</color>
 </resources>
